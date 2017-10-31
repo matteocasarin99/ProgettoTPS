@@ -4,7 +4,7 @@ import Control.Controller;
 import Model.Gestione;
 import View.Finestra;
 
-public class MainTris {
+public class Main {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
