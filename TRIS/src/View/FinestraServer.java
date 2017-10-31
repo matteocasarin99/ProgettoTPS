@@ -35,9 +35,7 @@ public class FinestraServer {
 		});
 	}
 
-	/**
-	 * Create the application.
-	 */
+	
 	public FinestraServer() {
 		initialize();
 	}
