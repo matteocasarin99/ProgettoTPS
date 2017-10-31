@@ -19,10 +19,7 @@ public class Finestra {
 	public Finestra() {
 		initialize();
 	}
-
-	/**
-	 * Initialize the contents of the frame.
-	 */
+	
 	private void initialize() {
 		frmQuizzone = new JFrame();
 		frmQuizzone.setTitle("QUIZZONE");

@@ -22,9 +22,6 @@ public class FinestraServer {
 	private JLabel lblRispTrue;
 	private JLabel lblRispFalse;
 
-	/**
-	 * Launch the application.
-	 */
 	public static void main(String[] args) {
 		EventQueue.invokeLater(new Runnable() {
 			public void run() {
